@@ -1,5 +1,5 @@
 # IDE
-
+*.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -10,7 +10,7 @@ __pycache__/
 *.so
 
 # SQL
-.sqlite3
+*.sqlite3
 
 # Distribution / packaging
 .Python
